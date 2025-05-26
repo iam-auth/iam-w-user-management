@@ -9,13 +9,13 @@ You can run this application in a free Stackbitz account: https://stackblitz.com
 Re-create this template repossitory in your Github account
 
 select: Use this template
-Create a new repository
-To run the application.
+- Create a new repository
+- To run the application.
 
 In your I-AM account:
 
-register this application in your I-AM account
-copy the values of the APP_ID, HUB_ID and PRIVATE_KEY
-In the repository - AuthContext.tsx update the APP_ID, HUB_ID and PRIVATE_KEY with the values you just copied.
+- register this application in your I-AM account
+- copy the values of the APP_ID, HUB_ID and PRIVATE_KEY
+- In the repository - AuthContext.tsx update the APP_ID, HUB_ID and PRIVATE_KEY with the values you just copied.
 
 Now you are set. Ready to run the application: https://stackblitz.com/~/github.com/your-github-account/iam-w-user-management
